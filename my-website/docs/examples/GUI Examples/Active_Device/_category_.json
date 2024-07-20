@@ -1,0 +1,8 @@
+{
+  "label": "Active Devices",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This is active device examples library."
+  }
+}

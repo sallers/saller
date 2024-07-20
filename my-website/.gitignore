@@ -1,0 +1,6 @@
+node_modules/
+.docusaurus/
+build/
+docs/faq/General.md
+docs/faq/Installation.md
+docs/examples/Active_Device/MOD/MOD.md
